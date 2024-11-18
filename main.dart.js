@@ -7161,7 +7161,7 @@ zA:function zA(){},
 acH(){var s=0,r=A.H(t.H),q,p,o,n,m,l,k,j
 var $async$acH=A.I(function(a,b){if(a===1)return A.E(b,r)
 while(true)switch(s){case 0:s=2
-return "asdf-asdf-asdf-asdf"
+return A.Q($.apz().u6("assets/.env"),$async$acH)
 case 2:q=A.aq6("https://api1.dikshyalaya.com/",B.zB,B.jp)
 p=new A.D3(A.b([B.wr],t.i6))
 o=new A.RF($,p,$,new A.U0(51200),!1)
